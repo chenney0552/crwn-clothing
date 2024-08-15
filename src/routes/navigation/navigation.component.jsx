@@ -3,7 +3,7 @@ import { Fragment, useContext } from "react";
 import { ReactComponent as CrwnLogo } from "../../assets/crown.svg";
 import "./navigation.styles.scss";
 import CardIcon from "../../components/card-icon/card-icon.component";
-import CardDropdown from "../../components/card-dropdown/card-dropdown. component";
+import CardDropdown from "../../components/cart-dropdown/cart-dropdown. component";
 import { UserContext } from "../../contexts/user.context";
 import { CartContext } from "../../contexts/card.context";
 import { signOutUser } from "../../utils/firebase/firebase.utils";
