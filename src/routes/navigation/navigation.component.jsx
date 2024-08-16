@@ -3,9 +3,9 @@ import { Fragment, useContext } from "react";
 import { ReactComponent as CrwnLogo } from "../../assets/crown.svg";
 import "./navigation.styles.scss";
 import CardIcon from "../../components/card-icon/card-icon.component";
-import CardDropdown from "../../components/cart-dropdown/cart-dropdown. component";
+import CardDropdown from "../../components/cart-dropdown/cart-dropdown.component";
 import { UserContext } from "../../contexts/user.context";
-import { CartContext } from "../../contexts/card.context";
+import { CartContext } from "../../contexts/cart.context";
 import { signOutUser } from "../../utils/firebase/firebase.utils";
 
 const Navigation = () => {
