@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be found at: https://transcendent-cajeta-1d90e2.netlify.app/
 
 ## Available Scripts
 
